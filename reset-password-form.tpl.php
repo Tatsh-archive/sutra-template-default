@@ -1,13 +1,13 @@
 <?php
 /**
- * Reset password form.
+ * Reset password form template.
  *
  * @copyright Copyright (c) 2011 Poluza.
  * @author Andrew Udvare [au] <andrew@poluza.com>
  * @license http://www.opensource.org/licenses/mit-license.php
  *
  * @package SutraTemplate
- * @link http://www.example.com/
+ * @link https://github.com/tatsh/sutra-template-default
  *
  * @version 1.0
  */

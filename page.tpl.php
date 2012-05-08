@@ -27,7 +27,7 @@
  * @license http://www.opensource.org/licenses/mit-license.php
  *
  * @package SutraTemplate
- * @link http://www.example.com/
+ * @link https://github.com/tatsh/sutra-template-default
  *
  * @version 1.0
  */
@@ -43,7 +43,6 @@
     <?php endif; ?>
     <?php print $css; ?>
     <?php print $head_js; ?>
-    <?php print $conditional_head_js; ?>
   </head>
   <body id="<?php print $body_id; ?>" class="<?php print $body_class; ?>">
     <h1><?php print $site_name; ?></h1>
