@@ -15,6 +15,7 @@ git clone git://github.com/tatsh/sutra-template-default.git default
 ```
 
 ```php
+<?php
 sTemplate::setTemplatesPath('where-templates-are');
 sTemplate::setProductionModeTemplatesPath('where-templates-are');
 ```
@@ -27,5 +28,6 @@ git clone git://github.com/tatsh/sutra-template-default.git original
 ```
 
 ```php
+<?php
 sTemplate::setActiveTemplate('my-preferred-template', 'original');
 ```
